@@ -1,5 +1,6 @@
 import { Assessment1 } from "./components/assessment1/assessment1"
 import { Assessment2 } from "./components/assessment2/assessment2"
+import { Assessment3 } from "./components/assessment3/assessment3"
 
 function App() {
   const clickHandler = () => {
@@ -14,6 +15,7 @@ function App() {
       <hr />
       <Assessment2 />
       <hr />
+      <Assessment3 />
     </div>
   )
 }

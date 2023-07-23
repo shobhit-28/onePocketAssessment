@@ -1,0 +1,18 @@
+.assessment-3 {
+    margin: auto;
+    padding: 2.5rem;
+    overflow: hidden;
+}
+
+.assessment-3>ol {
+    list-style-type: upper-roman;
+}
+
+.assessment-3>ol>li {
+    margin: 2rem 0;
+}
+
+.assessment-3>ol>li>ul {
+    list-style-type: circle;
+    margin: .5rem 1.5rem ;
+}
