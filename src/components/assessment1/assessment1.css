@@ -1,0 +1,10 @@
+.assessment-1-btn {
+    padding: 0.5rem 1rem;
+    background-color: #212A3E;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 0.5rem;
+    display: block;
+    margin: auto;
+    cursor: pointer;
+}

@@ -45,6 +45,10 @@ html {
     scroll-behavior: smooth;
 }
 
+hr {
+  margin: 2rem 0;
+}
+
 .heading {
   text-align: center;
   margin: 1rem;
