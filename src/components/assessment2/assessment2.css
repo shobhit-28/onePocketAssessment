@@ -1,0 +1,18 @@
+.assessment-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.assessment-2>.num {
+    margin: 0 1.5rem;
+    font-size: 2rem;
+}
+
+.assessment-2>.decrement, .assessment-2>.increment {
+    font-size: 2rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 100%;
+    border: .1px solid rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
